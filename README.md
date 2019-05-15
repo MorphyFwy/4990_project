@@ -1,4 +1,4 @@
-# 4990_project
+# APMAE4990_Final_Project
 
 This is the repository for 4990 Final Project
 
@@ -18,7 +18,8 @@ The datasets are extracted from the bigquery.
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 
-Contributions
+Contributions:
 ---
+
 
 
