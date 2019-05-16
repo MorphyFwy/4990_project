@@ -10,16 +10,22 @@ In this project, we will build a machine learning model which will accurately pr
 Files:
 ---
 
-**Defense_Basic.m** - The main function of this system.
+**Final_Project E4990.ipynb** - The main notebook for the project.
+**Col_Extraction.itynb** - The notebook to extract num_accident for train and test dataset.
+**prediction.csv** - The prediction result based on the best model.
+**data fold** - including datasets used in the project
 
 Dataset:
 ---
 The datasets are extracted from the bigquery.
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+**New York Taxi Data** - bigquery-public-data.new_york.tlc_yellow_trips_2016
+**New York Weather Data** - bigquery-public-data.noaa_gsod.gsod2016
+**New York Accident Data** - bigquery-public-data.new_york_mv_collisions.nypd_mv_collisions
+
 
 Contributions:
 ---
 
-
-
+Weiyao Fan: Feature Selection, Model Construction, Prediction
+Chengyu Huang: Bigquery Data Extraction, Feature Selection, Prediction
