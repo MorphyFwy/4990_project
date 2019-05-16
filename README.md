@@ -11,7 +11,7 @@ Files:
 ---
 
 **Final_Project E4990.ipynb** - The main notebook for the project.\
-**Col_Extraction.itynb** - The notebook to extract num_accident for train and test dataset.\
+**Col_Extraction.ipynb** - The notebook to extract num_accident for train and test dataset.\
 **prediction.csv** - The prediction result based on the best model.\
 **data fold** - including datasets used in the project
 
